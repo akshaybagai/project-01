@@ -1,0 +1,1 @@
+Technology Demonstrations: We have developed and deployed sample applications for various predix modules.* https://predix-helloworld-webapp-akshayb.run.aws-usw02-pr.ice.predix.io/* https://predix-akshay-sb-example.run.aws-usw02-pr.ice.predix.io/ * https://akshayb-predix-nodejs-starter.run.aws-usw02-pr.ice.predix.io/ 
